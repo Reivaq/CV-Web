@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/CV-Web/static/css/main.facf84e4.css",
+    "main.js": "/CV-Web/static/js/main.16f58eb8.js",
+    "static/media/image.png": "/CV-Web/static/media/image.d57f0ec226f0cac14c1a.png",
+    "static/media/portfolio-5.jpg": "/CV-Web/static/media/portfolio-5.630f3eeba56cec14c389.jpg",
+    "static/media/logo.png": "/CV-Web/static/media/logo.0410cae641e766e53164.png",
+    "static/media/portfolio-2.jpg": "/CV-Web/static/media/portfolio-2.643734531dd7d8adf3d4.jpg",
+    "static/media/portfolio-6.jpg": "/CV-Web/static/media/portfolio-6.09a1b398ae43c7a8cd68.jpg",
+    "static/media/website-design.jpg": "/CV-Web/static/media/website-design.b853f03887991fca23d8.jpg",
+    "static/media/CAMB.jpg": "/CV-Web/static/media/CAMB.fb22e8914e29ad3f95d3.jpg",
+    "static/media/portfolio-3.jpg": "/CV-Web/static/media/portfolio-3.eadb5514265d59f150cc.jpg",
+    "static/media/portfolio-8.jpg": "/CV-Web/static/media/portfolio-8.87b541cb2059e2b06e96.jpg",
+    "static/media/app-design.jpg": "/CV-Web/static/media/app-design.a495d39c239e080a69a9.jpg",
+    "static/media/portfolio-4.jpg": "/CV-Web/static/media/portfolio-4.ff0c4bcdb44be0b361ed.jpg",
+    "static/media/portfolio-7.jpg": "/CV-Web/static/media/portfolio-7.742634e8f48ac8be43d0.jpg",
+    "static/media/portfolio-1.jpg": "/CV-Web/static/media/portfolio-1.c3c9e98a393b2313f10e.jpg",
+    "static/media/ui-design.png": "/CV-Web/static/media/ui-design.c4acd455fc2040eddcc8.png",
+    "static/media/instagram.png": "/CV-Web/static/media/instagram.0bcd1dcb7d853c327af7.png",
+    "index.html": "/CV-Web/index.html",
+    "main.facf84e4.css.map": "/CV-Web/static/css/main.facf84e4.css.map",
+    "main.16f58eb8.js.map": "/CV-Web/static/js/main.16f58eb8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.facf84e4.css",
+    "static/js/main.16f58eb8.js"
+  ]
+}
